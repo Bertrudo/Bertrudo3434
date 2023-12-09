@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Duncan",
+  "age": 32,
+  "address": {
+    "street": "Bosibi Center",
+    "city": "Kiulubu",
+    "state": "TX",
+    "zip": "61184"
+  },
+  "contact": {
+    "phone": "(534) 804-8529",
+    "servicePhone": "800749577"
+  },
+  "birthday": "1992-08-20T12:27:11.242Z",
+  "ip": "150.237.83.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Puonavi inbicnif wahonsib isi ulfoafi culib zacla mo doakev buteczub geliwtew jiris igimo duw. Gumojbof gabu sewe copek asluki pisava raznes ze je izdepop med gimu. Ivo fo mus uhivedu wakkaves sespiji pacdorku piw hewosa fobim maud fare wotov artec pebiksiw mufjuhe ogleceto.",
+    "bio": "Dogrogbe adjuc zad dac kitjidodo fuhpuizu dicanez gig fawawta fu ize nu we ki. Imju jofhu kubpo riw rafo dafozuz eriowo tigal sudum antobhim ja ok. Sotma mej wetvu ejgitab veew zu navudiiz ufuovji datmeg sianoci zu pebifuh apogaan soifiop nav. Usafaru meofhew ijoifi huwirzu nev vewtu tawfih awe guz rocoso do piaw povucih siweh gogzuzid."
+  },
+  "apiKey": "28374b0d8d666abd33c926379fec866351c1d55f63582b5abe52eb4d0a0a6491",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
