@@ -1,0 +1,26 @@
+{
+  "name": "Cecelia Rodriquez",
+  "age": 35,
+  "address": {
+    "street": "Afhe Square",
+    "city": "Gikobe",
+    "state": "SD",
+    "zip": "91976"
+  },
+  "contact": {
+    "phone": "(556) 923-7584",
+    "servicePhone": "800995144"
+  },
+  "birthday": "1971-05-22T02:42:46.140Z",
+  "ip": "161.253.140.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Jafef jiklifgi ato afenomi kocakpum zo oki awovojos ne wukesvuz jizci eto ehouw cen. Leik oz ecbow fu etiad wemo maibfis ginuk ifi wedonogid fejdoos sipeko nehpa we. Nedpedim zuafair ve fakko dadfej va ufo jimut bol ru rifial pofdudha nuha hodafuj cab gitga afajausi po.",
+    "bio": "Na habahed vekwes egwoli ku naros do lusnu piarvo sumgep forana ekepi verubu osnet duevuka uwefaano. Ni tudgonco hirvozoz likenis ote wegiru az la wurerni zedpu cuga ucfumi efrol pegif favajim. Vaftafen ho cokaldut za takif nefhe jowe gam ucuhetre wowte avo refvunlom bage fi ecuki tu."
+  },
+  "apiKey": "4e75c8b20b1c575181aacc0c3dafde894d184885317db7d214c35c0e96a95288",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
