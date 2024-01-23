@@ -1,0 +1,26 @@
+{
+  "name": "Sally Clark",
+  "age": 51,
+  "address": {
+    "street": "Heldup Park",
+    "city": "Bubabam",
+    "state": "DE",
+    "zip": "66923"
+  },
+  "contact": {
+    "phone": "(385) 887-1387",
+    "servicePhone": "800777779"
+  },
+  "birthday": "1985-02-25T22:55:59.084Z",
+  "ip": "159.227.88.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Fasu baduda ku map cuvsuvel kovocnuv af pef rowisdur kashecda nib gaho gi olotavac tuata. Nagbep houba od ufgoma maraw juj zingeje ujoren bipdikol ca dotdewwu hozjev peido ti. Usale vejvissi dafgesdar fav gaggokneg pugdeotu useopanuw himed na ju oz gojateci focim unkebe wuc gem mon mepsame. Liluz huh jigguba rivewcet weronlu fawecco hire hubzu gidvevju torso zuvul cam taco sirmefpo us. Ofuhoni ju hofid er jeside hipewtoj durow vopefsu loteke igo wodabzeg gopfuv ef pawwagam boj juzci. Obenumof duke meggafis oc ef teunovuc kuwtozfuz zeil upu kigkel deimosum nat takbutu. Ji ov kicsewwi ba lor odcaw hojmucef nu giwawacu rim hezdu gihmo.",
+    "bio": "Kubci uwenku cu damagif fo pin uz kubza coziz efauc ohac ode. Mah uho bidjuk pif ziratba bigsig mu zava lulcipkut viozaca ruce gobeh lapombe zan tuzowe rat. Adu fivuko lezarov upogoev fof otgente lihel iva nag rozehric effowkoz lenwe ve seivoz no."
+  },
+  "apiKey": "4eb73008a58f9aafc9f7c045e9ea877a3c78998d48460d38564c82c93c9c0133",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
