@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Simpson",
+  "age": 26,
+  "address": {
+    "street": "Sehjun Drive",
+    "city": "Gacisoka",
+    "state": "MT",
+    "zip": "61557"
+  },
+  "contact": {
+    "phone": "(689) 253-3526",
+    "servicePhone": "800726864"
+  },
+  "birthday": "1990-09-06T11:30:01.513Z",
+  "ip": "213.14.140.222",
+  "foo": "bar",
+  "profile": {
+    "about": "Koeke nih aru supoji ceacefir lokoc houvto ve mur cudozej nigajif te pasbo lomtud lubhu ti avu ruwovza. Ciaple zuzeghed uhit sumed cikiduc isolika deznorpi maw wak huw rofifon ifjoovi fic ali ordizja po. Lurva kod nadbawwo ato vur kuv aripizu utowe lavralet baz vafkinfac fijaw lok. Mopakius rehenele kafbiat pimef lejike bezek il rukahil lin cascozor jo kev niruhjo.",
+    "bio": "Bo erofaj cuapohid leh dovviljo cal bekhilul mi ugulik cuklidi ice oco jonimiir la tutowa af je. Jecdo fe zita zasho wovju gonhensik os mowjabice toc tefaife uhalwop it emarez cij we gud. Zacit ikove nasu uhhid rabila tewpupi he afihig ocboaw jufevgef vozfugru uvpuz rem irakpu."
+  },
+  "apiKey": "a77455d6f64387674bd9c2abd947eb5f66176707ce1d2efc633ab3203275482a",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
