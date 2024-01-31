@@ -1,0 +1,26 @@
+{
+  "name": "Howard Gomez",
+  "age": 50,
+  "address": {
+    "street": "Wibon Center",
+    "city": "Reagmot",
+    "state": "CO",
+    "zip": "59387"
+  },
+  "contact": {
+    "phone": "(370) 502-9078",
+    "servicePhone": "800324694"
+  },
+  "birthday": "1968-06-08T11:27:56.062Z",
+  "ip": "211.100.255.60",
+  "foo": "bar",
+  "profile": {
+    "about": "Bokke kupeh pud misfucu mur gozbe olpuruc be afsuiz sug jupenho lasudta nibkoek wifsa hub suzuk. Fufbiztod hamcun zoffe batato ah ucevu naosa gawpa wuhurdaz lazpapih ziklitreb pog pelsebu momfukpe gihce utvihbo iroha vo. Uzu moksew nutib pem vur jon baef sapol tov tobwa bid jawvah. Susjohbuk er leg itopeh hithivoke si nid ocewu dizarezu jetgoslot dim tupom zaz bugo ozraisa.",
+    "bio": "New valnowi lefdeek bawo mibov ogudozofu soemajob ifesergu de sogujme fep edi fise wuppog. Docepopad jebudu kavhil depcoid lenoj wewo fa efu pimota ha hazdifge vurijwe gik riseghoj. Jero ofwamgef zuf amona feeffu icbugre lo ogegiib cugehaf ni diti bufe ir vagmi epaprat usuom so."
+  },
+  "apiKey": "f379ebcb2be7d472e8c88c7d47de32de9d18c576f848bd837a0889e528085653",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
