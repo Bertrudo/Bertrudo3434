@@ -1,0 +1,26 @@
+{
+  "name": "Ian Cannon",
+  "age": 22,
+  "address": {
+    "street": "Kopo Loop",
+    "city": "Lizuwso",
+    "state": "CA",
+    "zip": "21288"
+  },
+  "contact": {
+    "phone": "(786) 657-9140",
+    "servicePhone": "800465532"
+  },
+  "birthday": "1980-03-19T15:27:13.473Z",
+  "ip": "147.136.142.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Jah res girtije owuroafu zija fo te ve kuvca boj lommu jacjetru dulwi ba taltidraz. Wad el hi wazjegis mafmigun jonsag eho umcaglit kipgisco nu semnois ficsaza. Degi jita juskicu ittun zapadda gu ji wowim tozadvil ga vuk zufawo. Om onojukoc la pufnic ke lop idbemuz weag uciwova nijje gib madti sujlutnih kufrid bawaido juvej. Saora edomi haafive gac egene mugkud dek nuj jitsa feupzo vezdiz mebajase vegomuf bakto segud.",
+    "bio": "Bobkegla ludku uwgoneg tuv ririn cup vassi rit emeehe ehsahus ro so sulru fi tug tilazep fimnilo. Idenah ihapuk ag secotto juaf du huke jircurip pabgezhos do tan zov cufse. Sow jev duzdonepo tuzene mucenum egi zav vo fazoev raf bortob wagwusdej peg ahabug."
+  },
+  "apiKey": "c82d33c8e0446f6259e9889a4b7de210e017cbf49fd11cd9d8699514fbeab14e",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
