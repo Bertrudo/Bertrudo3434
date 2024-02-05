@@ -1,0 +1,26 @@
+{
+  "name": "Mae Baker",
+  "age": 31,
+  "address": {
+    "street": "Kohti Street",
+    "city": "Ozitiplam",
+    "state": "WY",
+    "zip": "46524"
+  },
+  "contact": {
+    "phone": "(483) 354-1258",
+    "servicePhone": "800722512"
+  },
+  "birthday": "1970-06-16T01:18:28.243Z",
+  "ip": "246.239.254.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Mimtoito he wogizba tubeb muipi zinut ara kibmi ti cawope are zibru uzofuzmi. Ko lunagi ibjij folkuoz oce se moskajba kewrewro fogbebfa getre ir nosfuvave. Si po ko difurke ra rozcit wozlefam tilahuw meve dum ze lujusrud dimufwu itu lot jij. Lek gikidal fujbojni wof codu ha jejaupe eweef kebvu ad jasa lidehkob ahu esamekvo.",
+    "bio": "Azo dipimaj dop fi zicweuw ebosoj pu aguewsi wajmi rehgeaf ijipa jivkow gibcevor no pip safiwi cezal wut. Dupo va pi loc fuze susa motogioke duc eja ebalosoh tegfe wufadif dal. Radifge zujusi divefi uceson dokdiju sawwu bopcoguz leor hufzavje wif jurup navonpe wuk kecnobhu."
+  },
+  "apiKey": "b9707e2050c01b797f403197f176c7fe4bbd9445575cd1a025e0ed4ea921d5bb",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
