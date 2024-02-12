@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Hale",
+  "age": 41,
+  "address": {
+    "street": "Toeza Trail",
+    "city": "Gebukafaz",
+    "state": "MI",
+    "zip": "85822"
+  },
+  "contact": {
+    "phone": "(561) 514-4812",
+    "servicePhone": "800776382"
+  },
+  "birthday": "1960-09-16T09:55:05.523Z",
+  "ip": "221.72.220.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Joc otefovme dabliata sof jabdu une onige zim dowapde uj ecdu ezu zinge les voef golurfe vizotzo adtoz. Sa uh alaj jemanos av wuhfuroj bujana goevci tot cascor cu vo ih oljomer af zemo fa. Nanam nigde sidipe zo lutzoono few ecoma tejdabij tihenvin le hic fone lulan wekajen tutemibu suajala ta. To per paewe jonu gu fuvel hefwa ok fav kizoeze mu mir gici jagamu.",
+    "bio": "Nen mo gi mat edpeef uh be jorul beghi gimsaf muz kep ha zingi remnajwo jonkerup. Galzip el kifuidu di batwo tahenbo gi ite dowu ida huhoru niva umkuzcut joce zedfoul gukalev nejanu tabitos. Viegesur en tecwigna ehivaka is go finoczu gu wuval ilule bilu omohih ozhazi ori poudo mo der sil."
+  },
+  "apiKey": "862b2530de25367c7f2b6d1942a682ef956f91198dd50685263b24ab20d11fb4",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
