@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Malone",
+  "age": 57,
+  "address": {
+    "street": "Upahak Loop",
+    "city": "Cokeni",
+    "state": "UT",
+    "zip": "53344"
+  },
+  "contact": {
+    "phone": "(329) 389-4905",
+    "servicePhone": "800528924"
+  },
+  "birthday": "1985-08-16T22:10:35.884Z",
+  "ip": "152.218.220.109",
+  "foo": "bar",
+  "profile": {
+    "about": "Nikog kalopu guutuga vippiggec to katava oh bisoj fu na wewit pem ka izutec keebo den asubodun zaaci. Ap kaboti lile izafiz jinar eh hucpeot wapag lij ib vowipazeh ut uldaflaz cacoz kaulihos luvzu haw be. Etwoul guebuden iwe fojhuv co otgu umora jinis ucena zuter fugis lepozcel gecad hijvi muztutca zodhelgon.",
+    "bio": "Umfas os opeujo sus zejpu fukmov vehdi zabeg upu winli diobu balmuvlu lu awe sik wogjeset ehme futis. Vuga habtac al va toj mo cuma hiluew supam gam ulvaf sesboem zab. Lizeli hiza taew ti me polka mef ivdo honti hitgupme gilcej ob pis nido jaz es fanutico awavujgu."
+  },
+  "apiKey": "f0204e31fb3d80f033b919f52e159ee88e88318865a6c77782fc7be519dd5580",
+  "currency": {
+    "code": "UAH",
+    "name": "Ukraine Hryvnia"
+  }
+}
