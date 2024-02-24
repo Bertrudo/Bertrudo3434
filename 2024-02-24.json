@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Manning",
+  "age": 53,
+  "address": {
+    "street": "Jekciz Extension",
+    "city": "Hesevpa",
+    "state": "UT",
+    "zip": "60101"
+  },
+  "contact": {
+    "phone": "(607) 500-1125",
+    "servicePhone": "800481723"
+  },
+  "birthday": "2003-06-03T17:15:44.362Z",
+  "ip": "59.105.157.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Fas buk pen iletaba cip tojucuc zezri gorfa hofun cakes jekez wefic nun evmavur fepuw dufine. Erbeole ti azo gifmantis nojkeh ujcur alge zag zo sapo tab feag kebpug wirinhel juhzo panfujda juus. Zonopkor lobup duzimoro cavabho rozfos biggiwig zedo cebomo avculve tekatpuc nado heraved um ehasepo giac bot vage fokki.",
+    "bio": "Ifa gafjid cu sohseruc re fotes lo ijial cidcekwe we tohav sohub lifog da cirwig. Makca faghafhaz atco gajubjub evu tasomlif sehac fog mehemula homro coskoh uw omujemoh dilagcu fecon. Dati hobsuthu kavna mebik dide vovuneg cut dulruztuk azasu hocicmun usuwasete un jocimga cissoh geusi azcokrov lujup duifo."
+  },
+  "apiKey": "ab14dacb95410800fb9889ffef5ddb61f68cee36325b3479dd5b3dc999906fcb",
+  "currency": {
+    "code": "SHP",
+    "name": "Saint Helena Pound"
+  }
+}
