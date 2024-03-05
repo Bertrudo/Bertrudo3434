@@ -1,0 +1,26 @@
+{
+  "name": "Adele Francis",
+  "age": 27,
+  "address": {
+    "street": "Kupdo Court",
+    "city": "Kitojvu",
+    "state": "MA",
+    "zip": "72928"
+  },
+  "contact": {
+    "phone": "(315) 771-7774",
+    "servicePhone": "800395953"
+  },
+  "birthday": "1963-08-03T22:05:16.035Z",
+  "ip": "210.26.159.40",
+  "foo": "bar",
+  "profile": {
+    "about": "Jib pow divziz lunwif iti lu binwi wa oduwin kov on jiz rig ved pawaese bewgipih. Wakju okenad gazug pol hijaof bemnaf wizbowvub cafuca dusodec vaj soptuffap kovar golo beub. Cajdo kej rokaj wawfuc viranij ja coz dorgifu zepkacow utu tem legacaz wu tapad ijo kistej ju. Cag zolagra su bickif zekadi tobag em aripi so ba ko niwgufip fikad rubowore.",
+    "bio": "Huddep erzimgo ki vek logdez ve go hapuceli tu zishef waclomok rigirega de femagrav jugeufe soksuos. Okis hozovopi de abe ci tal run fe ujekif vo adik esezi ohri takgiziv wu. Kapmaship gojiv cu rem botsigguf fig dizokfek eniuguzis gec siwicofi afafin akazuav."
+  },
+  "apiKey": "4abc5464609757f6d368b64bb1d2efd53530ab885c5d2146db8ad6295a525bc3",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
