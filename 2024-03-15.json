@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Bradley",
+  "age": 31,
+  "address": {
+    "street": "Sinma Plaza",
+    "city": "Tovnodnul",
+    "state": "WA",
+    "zip": "73955"
+  },
+  "contact": {
+    "phone": "(640) 370-8493",
+    "servicePhone": "800585928"
+  },
+  "birthday": "1999-09-03T22:36:32.963Z",
+  "ip": "48.225.73.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Ber demila vaseg anufik tume vi ha urzeiki bo cof pelkejug ca dazeculi jovoepi. Milieci ibtagib esipzu jofra omijeg rugelpep icoemfu kavi sihan id ruhafilag titi dadedri. Wuzar tuutu esi cafikib fim gomgebma fi ufuvoced nazde neareha wirzasa hugeh daerwa cifi zi bodni.",
+    "bio": "Culwo bidzob sefvepfuc maonu remo fov uj hi vu mibba ulguz uliwa niszit zenibi wu dukugtin op. Jodovse ri tesarza jorbu hesu gace dor godbivam osihisu pokap fejoz maagalu duc zokut emepamu vacepa nadbi. Lup guhpibo cafmodzes misi febozon vi muode apibepdi poovihic tetlop se alomofo uvwucaw ovdovo gurzamimo of tadlozim oma."
+  },
+  "apiKey": "f44c474f8bfc7e361834377af2e258bdd5270c4bdf24779d5e4f2e4943233982",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
