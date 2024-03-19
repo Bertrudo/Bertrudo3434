@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Brock",
+  "age": 33,
+  "address": {
+    "street": "Zafi Avenue",
+    "city": "Zarteev",
+    "state": "MI",
+    "zip": "33821"
+  },
+  "contact": {
+    "phone": "(942) 588-2308",
+    "servicePhone": "800758361"
+  },
+  "birthday": "2006-02-13T18:03:05.408Z",
+  "ip": "123.63.26.129",
+  "foo": "bar",
+  "profile": {
+    "about": "Fi ku vu pow at tun ishuf zita vodolbib eza lekode su mizagor. Hun aga hoj weseb amicudmih debbaj cinzun orjuno pu ujme cuwbir uj gokrog ewa izuafruw inu. Nuot gufu vokamoge sotgamon gak meaz pegemac no cavjoji fu cuhilwa odba vavjeg uz. Zep hufnuh godotvi zimkin subrazij moj vuhjiraz acakad rulzivji it kinnudtom geot etgac pivniho ju gukzipil ozu ob. Dahhavij goojagu erreh weewili bo tale imicub ovuraolo utihicdi lejiva norze vehenif noufot si ipo evamape. Waepecum gi wulesgis hij vosan uwi kiwgenu muv merafwiv pihaf visosufa lo un naid emli movze ahoustom holerfun. Zed ge wenjinom fitul zofgit zolifzoh ruiccij kob hazedih cepuul zijul ecpi hefek za igarucrul kogovi gombiaf jugwiipi.",
+    "bio": "Fuclikem judurdet nalen zah zewzo wozage ke hobij jeclegav nusoha ul ewbat atigug idwan ca jub gubaam. Ewwi fim ijofa zof bocbahud po ur debouco afemod aje usegub fi ucfanog jegjuf. Nocet mizofa vuzahga dodnak fan raasiwer ur ulcojez asa cihona fogwofow owaj ijo wakuf vujla awohaebi. Amzeje zapudmif bi pe mesovit edo jal donafovej ula dimtamem ko rofu vemu. Pe watisbek gef cur fasagina hezvisham nepimti kilmoz hehufdu doabohub iwofare ubu senuzpe zoebgal dol saca fe woseb."
+  },
+  "apiKey": "5b41fdcf26f8dc23511be3fbaeb6866dffc9c331d9ec5e9c5e7ffec6c2dff640",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
