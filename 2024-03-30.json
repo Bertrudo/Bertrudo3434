@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas McDaniel",
+  "age": 22,
+  "address": {
+    "street": "Giela Lane",
+    "city": "Ebdade",
+    "state": "OR",
+    "zip": "98008"
+  },
+  "contact": {
+    "phone": "(883) 219-3454",
+    "servicePhone": "800312667"
+  },
+  "birthday": "2004-12-06T05:57:51.106Z",
+  "ip": "51.14.94.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Kowej avsoweh tibvebev era fe enwot go fecagbiz wohol ruzejwe cecdut imoivgur ha. Ruh mu egipola dilaja biceir ucbiwop nadub hejpistuf fafoobo lut puzacba ga. Evour tozsi kob gipbub tuwajar rapo manova pod fe wos judijic ze ci misruzek zalocbim catwo tiwu je.",
+    "bio": "Elinokuv or de ruzumug pewtul wiru ucumu ici gawalut zi jaggejido ho littu. Tiwpajrul cerosuj jib ipa monze sewis ijanu os gavera cibzeg okku ro. Meparco dufmoc du fazpi codwu ige ze gah kiseg kubonro urbon suntin su cog nil wim. Hosvo adkopke ulu rikwudvat oje bogkit amlupuh odavji halap bukjodti mogci fik. Cuhcud bo fapu otjaf duktascop jouzu ne fiw wahahon ne kegecjos kehe jaopu kaced dulazbir daobo."
+  },
+  "apiKey": "962f9d6fbdf8d31eb546c5e137cee9353fbf48eea879f2b8976966ca7fefd81c",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
